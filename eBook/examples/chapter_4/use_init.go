@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./trans"
 	"fmt"
+	"the-way-to-go_ZH_CN/eBook/examples/chapter_4/trans"
 )
 
 var twoPi = 2 * trans.Pi // decl computes twoPi

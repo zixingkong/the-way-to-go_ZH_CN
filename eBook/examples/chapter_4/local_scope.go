@@ -12,3 +12,5 @@ func m() {
 	a := "O"
 	print(a)
 }
+
+// 输出：G0G

@@ -15,3 +15,5 @@ func f1() {
 func f2() {
 	print(a)
 }
+
+// 输出：G0G
